@@ -9,8 +9,7 @@ which emphasizes the interplay between math, science, engineering, engineering t
 
 Section 2 will give an overview on the need for STEM education; section 3 will review the disperse definitions of STEM across the United States; section 4 develops a conceptual model of STEM; section 5 demonstrates how the Iowa Department of Education translated the conceptual model into a list of STEM programs; section 6 analyzes the proportion of women and minorities majoring in STEM majors at Iowa community colleges; and section 7 concludes.
 
-# America’s Problem: Challenges Confronting the United
-States
+# America’s Problem: Challenges Confronting the United States
 
 In reviewing the issues confronting America, we shall follow a logical progression along the “STEM Pipeline”. The logic of the pipeline is that problems have a genesis that tends to build and magnify subsequent problems. In essence, inputs and activities are reflected in outputs, both positive and negative. For example, if American students are failing to achieve basic and proficient scores on math and science at the primary level, then it would logically follow that they will continue to fall behind at the secondary and post-secondary levels, as well. Further, without an advanced education, it is impossible to fill the demand for an educated STEM workforce. Each of these problems is interconnected and is being addressed by STEM initiatives. However, before we can discuss the solution (STEM), we must fully understand the problem from which it arose and how that influences our conceptual understanding of STEM.
 
